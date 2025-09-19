@@ -1,6 +1,6 @@
-# Visual Basic Project
+## Visual Basic Project
 # A University Management System that manages every student information using object-oriented programming:
-1. Such as the coruse name that the student is doing
+1. Such as the course name that the student is doing
 2.   Course Code
 3.   ID
 4.   Student Name and Age
